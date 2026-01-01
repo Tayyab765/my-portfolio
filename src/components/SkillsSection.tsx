@@ -4,12 +4,12 @@ const skillCategories = [
   {
     title: 'Programming Languages',
     icon: <Code className="w-6 h-6" />,
-    skills: ['C++', 'C#', 'Java', 'Python', 'JavaScript', 'TypeScript', 'SQL'],
+    skills: ['C++', 'Java', 'Python', 'JavaScript', 'TypeScript', 'SQL'],
   },
   {
     title: 'Full-Stack Development',
     icon: <Server className="w-6 h-6" />,
-    skills: ['React.js', 'Node.js', 'Express.js', 'Spring Boot', 'REST APIs', 'Tailwind CSS', 'HTML/CSS'],
+    skills: ['React.js', 'Node.js', 'Express.js', 'REST APIs', 'Tailwind CSS', 'HTML/CSS'],
   },
   {
     title: 'AI & Data',
@@ -19,17 +19,17 @@ const skillCategories = [
   {
     title: 'DevOps & Testing',
     icon: <Cloud className="w-6 h-6" />,
-    skills: ['Git', 'GitHub Actions', 'Jenkins', 'Docker', 'CI/CD Pipelines', 'JMeter', 'Jira'],
+    skills: ['Git', 'GitHub Actions', 'Docker', 'CI/CD Pipelines', 'Jest', 'Postman'],
   },
   {
     title: 'Databases',
     icon: <Database className="w-6 h-6" />,
-    skills: ['MongoDB', 'MySQL', 'SQL Server', 'PostgreSQL'],
+    skills: ['MongoDB', 'MySQL', 'SQL Server'],
   },
   {
     title: 'Tools & Platforms',
     icon: <Wrench className="w-6 h-6" />,
-    skills: ['VS Code', 'Postman', 'Linux', 'Material UI', 'Figma'],
+    skills: ['VS Code', 'Postman', 'Linux', 'Figma'],
   },
 ];
 

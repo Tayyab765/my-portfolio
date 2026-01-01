@@ -16,7 +16,8 @@ const techStack = [
   'Python',
   'MongoDB',
   'Express.js',
-  'Spring Boot',
+  'Tailwind CSS',
+  'JavaScript',
 ];
 
 const HeroSection = () => {

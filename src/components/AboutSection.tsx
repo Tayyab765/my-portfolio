@@ -23,8 +23,7 @@ const AboutSection = () => {
               From building secure applications to developing intelligent systems, I strive to deliver solutions that are both technically sound and impactful.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              Currently pursuing my Bachelor's in Software Engineering at FAST-NUCES Islamabad, I'm passionate about building scalable, 
-              secure, and intelligent applications that solve real-world problems.
+             
             </p>
 
             {/* Quick Facts */}
