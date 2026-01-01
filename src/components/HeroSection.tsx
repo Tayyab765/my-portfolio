@@ -114,7 +114,7 @@ const HeroSection = () => {
             Get In Touch
           </a>
           <a
-            href={`${import.meta.env.BASE_URL}ResumeDec25.pdf`}
+            href={`${import.meta.env.BASE_URL}TayyabAttiq.pdf`}
             target="_blank"
             rel="noopener noreferrer"
             className="cta-button cta-button-primary flex items-center gap-2"
