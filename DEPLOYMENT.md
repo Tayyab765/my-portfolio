@@ -119,7 +119,7 @@ To deploy updates:
 npm run deploy
 ```
 
-Changes will be live in 1-2 minutes!
+Changes will be live in 1-2 minutes! and then all set.
 
 ---
 
