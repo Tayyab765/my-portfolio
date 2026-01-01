@@ -114,7 +114,7 @@ const HeroSection = () => {
             Get In Touch
           </a>
           <a
-            href="/resume/ResumeDec25.pdf"
+            href="/ResumeDec25.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="cta-button cta-button-primary flex items-center gap-2"
