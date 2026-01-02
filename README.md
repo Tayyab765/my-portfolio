@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![View Portfolio](https://img.shields.io/badge/Live%20Demo-Visit%20Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tayyab765.github.io/my-portfolio/)
+[![View Portfolio](https://img.shields.io/badge/Visit%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tayyab765.github.io/my-portfolio/)
 
 </div>
 
