@@ -28,7 +28,7 @@ const Index = () => {
           content="Software Engineer with expertise in full-stack development, AI systems, and DevOps."
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://tayyab-attiq.dev" />
+        <link rel="canonical" href="https://tayyab-attiq.me" />
       </Helmet>
 
       <main className="min-h-screen">
